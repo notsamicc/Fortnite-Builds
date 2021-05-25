@@ -1,5 +1,5 @@
 # Fortnite-Builds
-alot of builds reuploaded by Samicc and Fischsalat.
+Some Fortnite builds reuploaded by Samicc and Fischsalat.
 
 # Downloads
 | Build                   | Date           | Link                                                                   |
