@@ -3,13 +3,13 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 
 # Downloads
 
-#Pre-BattleRoyale
+# Pre-BattleRoyale
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
 | OT6.5-CL-3541083        |  28-02-16	   | https://drive.google.com/file/d/1SvrhOV72Qvv9mwI3RLMo2rOLGwAtRlNi/view |
 | 1.2-CL-3541083          |  21-07-17      | https://drive.google.com/file/d/1JpQxlwnkJX_fYh6hPU0z6jS78iS6X2k6/view |
 
-#Season 0 + 1
+# Season 0 + 1
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
 | 1.7.2-CL-3700114        |                | https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view |
@@ -18,7 +18,7 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 1.9-CL-3757339          |                | https://drive.google.com/file/d/18pF3Ws1BoGmenpZqW0r8aqaP1EFHQhiF/view |
 | 1.9.1-CL-3775276        |                | https://drive.google.com/file/d/15j8Chkfk_ISk9AfhcPNI_IncvZyyKhZD/view |
 
-#Season 2
+# Season 2
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
 | 1.11-CL-3807424         |  		   | https://drive.google.com/file/d/17SOMTjw_jj66KtVLFZqcfUnIE6P2Vc65/view |
@@ -29,7 +29,7 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 2.4.2-CL-3870737        |                | https://drive.google.com/file/d/10DjWthGEZR4EWlPeuFie4g9_cc_N1DkA/view |
 | 2.5-CL-3889387          |                | 	---------------------------- MANIFEST----------------------------   |
 
-#Season 3
+# Season 3
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
 | 3.0-CL-3901517          | 		   | 	---------------------------- MANIFEST----------------------------   |
@@ -37,7 +37,7 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 3.2-CL-3935073          |                | https://drive.google.com/file/d/1U_4w4Y551Hap9TNS6U9pVpak9oNx4PMt/view |
 | 3.5-CL-4008490          |                | https://drive.google.com/file/d/1bafFIfZxKyUWynCnUsdPvVF8KPxnkV5W/view |
 
-#Season 4
+# Season 4
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
 | 4.0-CL-4039451          | 	           | 	---------------------------- MANIFEST----------------------------   |
@@ -46,7 +46,7 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 4.4.1-CL-	          |                | https://drive.google.com/file/d/1_rsZTzQu8ZByfNmudylyL3kqKQuTal7m/view |
 | 4.5-CL-4159770          |                | https://drive.google.com/file/d/1G1oRjNY4q5HaMqFSQUeCuHOtRcXvxKnt/view |
 
-#Season 5
+# Season 5
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
 | 5.00-CL-   	          | 	           | https://drive.google.com/file/d/1xtAOzOjKZDlWYYduB9prTAzql-2QKB6k/view |
@@ -54,7 +54,7 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 5.40-CL-4352937         |                | https://drive.google.com/file/d/1hp2J5zcNnV5dKT5YfV2c74HZlLB7YYTP/view |
 | 5.41-CL-4363240         |                | https://drive.google.com/file/d/1fNRu-NOAXBAI49NbxUAeaCNPznyW5JjX/view |
 
-#Season 6
+# Season 6
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
 | 6.00-CL-4395664         | 	           | https://drive.google.com/file/d/1K9qb2je0CD6bIaqDxqtlJUvEgWl-sNX6/view |
@@ -63,7 +63,7 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 6.30-CL-4573096         |                | https://drive.google.com/file/d/1MTVkUXi7tD4WETlTIMuUrF6ioYeAxI_a/view |
 | 6.31-CL-         	  |                | https://drive.google.com/file/d/1lu-Rruktpk8OpfmFRv7Q63lDPffmsQip/view |
 
-#Season 7
+# Season 7
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
 | 7.00-CL-4629139         | 	           | https://drive.google.com/file/d/1F8BBwFjbUUpmiM17FZZdXe7FnWu5p4ki/view |
