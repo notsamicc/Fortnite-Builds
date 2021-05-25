@@ -24,7 +24,7 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 1.11-CL-3807424         |  		   | https://drive.google.com/file/d/17SOMTjw_jj66KtVLFZqcfUnIE6P2Vc65/view |
 | 2.1.0-CL-3825894        |                | https://drive.google.com/file/d/1dVS_LVJIepNMMcs5WmSNSQvNWHdlIsmZ/view |
 | 2.2.0-CL-3841827        |                | https://drive.google.com/file/d/1gkluSEyrZ9cQKPJQgbHHNXT46VU0kE5v/view |
-| 2.3-CL-	          |                | 	   ---------------------------- MANIFEST----------------------------|
+| 2.3-CL-	          |                |-------------------------------------- MANIFEST --------------------------------------|
 | 2.4.0-CL	          |                | https://drive.google.com/file/d/1JYJ74HbS5GbXyWem4kxNkZm9klOPlvCe/view |
 | 2.4.2-CL-3870737        |                | https://drive.google.com/file/d/10DjWthGEZR4EWlPeuFie4g9_cc_N1DkA/view |
 | 2.5-CL-3889387          |                |-------------------------------------- MANIFEST --------------------------------------|
