@@ -27,7 +27,7 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 2.3-CL-	          |                | 	   ---------------------------- MANIFEST----------------------------|
 | 2.4.0-CL	          |                | https://drive.google.com/file/d/1JYJ74HbS5GbXyWem4kxNkZm9klOPlvCe/view |
 | 2.4.2-CL-3870737        |                | https://drive.google.com/file/d/10DjWthGEZR4EWlPeuFie4g9_cc_N1DkA/view |
-| 2.5-CL-3889387          |                |------------------------------- MANIFEST ---------------------------------------------|
+| 2.5-CL-3889387          |                |------------------------------- MANIFEST -----------------------------------------------|
 
 # Season 3
 | Build                   | Date           | Link                                                                   |
