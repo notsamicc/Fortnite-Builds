@@ -24,24 +24,24 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 1.11-CL-3807424         |  		   | https://drive.google.com/file/d/17SOMTjw_jj66KtVLFZqcfUnIE6P2Vc65/view |
 | 2.1.0-CL-3825894        |                | https://drive.google.com/file/d/1dVS_LVJIepNMMcs5WmSNSQvNWHdlIsmZ/view |
 | 2.2.0-CL-3841827        |                | https://drive.google.com/file/d/1gkluSEyrZ9cQKPJQgbHHNXT46VU0kE5v/view |
-| 2.3-CL-	          |                | 	---------------------------- MANIFEST----------------------------   |
+| 2.3-CL-	          |                | 	   ---------------------------- MANIFEST----------------------------|
 | 2.4.0-CL	          |                | https://drive.google.com/file/d/1JYJ74HbS5GbXyWem4kxNkZm9klOPlvCe/view |
 | 2.4.2-CL-3870737        |                | https://drive.google.com/file/d/10DjWthGEZR4EWlPeuFie4g9_cc_N1DkA/view |
-| 2.5-CL-3889387          |                | 	---------------------------- MANIFEST----------------------------   |
+| 2.5-CL-3889387          |                | 	   ---------------------------- MANIFEST----------------------------|
 
 # Season 3
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
-| 3.0-CL-3901517          | 		   | 	---------------------------- MANIFEST----------------------------   |
-| 3.1-CL-3917250          |                | 	---------------------------- MANIFEST----------------------------   |
+| 3.0-CL-3901517          | 		   | 	   ---------------------------- MANIFEST----------------------------|
+| 3.1-CL-3917250          |                | 	   ---------------------------- MANIFEST----------------------------|
 | 3.2-CL-3935073          |                | https://drive.google.com/file/d/1U_4w4Y551Hap9TNS6U9pVpak9oNx4PMt/view |
 | 3.5-CL-4008490          |                | https://drive.google.com/file/d/1bafFIfZxKyUWynCnUsdPvVF8KPxnkV5W/view |
 
 # Season 4
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
-| 4.0-CL-4039451          | 	           | 	---------------------------- MANIFEST----------------------------   |
-| 4.1-CL-4053532          |                | 	---------------------------- MANIFEST----------------------------   |
+| 4.0-CL-4039451          | 	           | 	   ---------------------------- MANIFEST----------------------------|
+| 4.1-CL-4053532          |                | 	   ---------------------------- MANIFEST----------------------------|
 | 4.2-CL-4072250          |                | https://drive.google.com/file/d/1e9UdrMLgdUOFzjRc_gOlokQySBxOpEDJ/view |
 | 4.4.1-CL-	          |                | https://drive.google.com/file/d/1_rsZTzQu8ZByfNmudylyL3kqKQuTal7m/view |
 | 4.5-CL-4159770          |                | https://drive.google.com/file/d/1G1oRjNY4q5HaMqFSQUeCuHOtRcXvxKnt/view |
@@ -68,5 +68,5 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
 | 7.00-CL-4629139         | 	           | https://drive.google.com/file/d/1F8BBwFjbUUpmiM17FZZdXe7FnWu5p4ki/view |
 | 5.20-CL-	          |                | 									    |
-| 7.30-CL-4834550         |                | 	---------------------------- MANIFEST----------------------------   |
-| 7.40-CL-5046157         |                |  	---------------------------- MANIFEST----------------------------   |
+| 7.30-CL-4834550         |                | 	   ---------------------------- MANIFEST----------------------------|
+| 7.40-CL-5046157         |                |  	   ---------------------------- MANIFEST----------------------------|
