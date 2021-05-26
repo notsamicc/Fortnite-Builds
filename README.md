@@ -56,7 +56,7 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 5.00-CL-4214610	  	| 12-07-18       	 | UE4.21-4214610	    |		https://rb.gy/hfd2o0 |
 | 5.10-CL-4240749         	| 25-07-18       	 | UE4.21-4240749	    |		https://rb.gy/eu6pfi |
 | 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           https://rb.gy/ry1ugw |
-| 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |                                |
+| 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |           https://rb.gy/ec3hm2 |
 | 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://rb.gy/jthlsv |
 | 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		https://rb.gy/lwjq6j |
 
