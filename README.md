@@ -4,10 +4,10 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 # Downloads
 
 # Pre-BattleRoyale
-| Build                   | Date           | Link                                                                   |
-| ----------------------- | -------------- | ---------------------------------------------------------------------- |
-| OT6.5-CL-3541083        |  28-02-16	   | https://rb.gy/nmgrub |
-| 1.2-CL-3541083          |  21-07-17      | https://rb.gy/z5to2g |
+| Build                  	 | Date          	 | Engine Version	    |		    Link             |
+| ------------------------------ | --------------------- | --------------------------------------------------------- |
+| OT6.5-CL-3541083        	 |  28-02-16	   	 | UE4.12-3541083	    |		https://rb.gy/nmgrub |
+| 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		https://rb.gy/z5to2g |
 
 # Season 0 + 1
 | Build                   	| Date          	 | Engine Version	    |		    Link             |
@@ -22,58 +22,59 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 # Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ |------------------------------- |
-| 1.11-CL-3807424         	| 14-12-17		 | UE4.16-3724489	    |		https://rb.gy/oy1zyq |
-| 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.16-3724489	    |		https://rb.gy/zqwfup |
-| 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.16-3724489	    |		https://rb.gy/v313ob |
-| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.16-3741772	    |		----- MANIFEST ----- |
-| 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.16-3757339	    |		https://rb.gy/e6aisf |
-| 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.16-3775276	    |		https://rb.gy/pcfeir |
-| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.19-3790078	    |		----- MANIFEST ----- |
+| 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	    |		https://rb.gy/oy1zyq |
+| 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.19-3825894	    |		https://rb.gy/zqwfup |
+| 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.19-3841827	    |		https://rb.gy/v313ob |
+| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		----- MANIFEST ----- |
+| 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		https://rb.gy/e6aisf |
+| 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://rb.gy/pcfeir |
+| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.19-3889387	    |		----- MANIFEST ----- |
 
 # Season 3
-| Build                   | Date           | Link                                                                   |
-| ----------------------- | -------------- | ---------------------------------------------------------------------- |
-| 3.0-CL-3901517	  | 21-02-18	   |-------------------------------------- MANIFEST --------------------------------------|
-| 3.1-CL-3917250	  | 28-02-18       |-------------------------------------- MANIFEST --------------------------------------|
-| 3.2-CL-3935073	  | 08-03-18       | https://drive.google.com/file/d/1U_4w4Y551Hap9TNS6U9pVpak9oNx4PMt/view |
-| 3.3-CL-3942182          | 15-03-18       |                                                                        |
-| 3.5-CL-4008490          | 11-04-18       | https://drive.google.com/file/d/1bafFIfZxKyUWynCnUsdPvVF8KPxnkV5W/view |
+| Build                         | Date           	 |  Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |		----- MANIFEST ----- |
+| 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		----- MANIFEST ----- |
+| 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://rb.gy/imwtbc |
+| 3.3-CL-3942182          	| 15-03-18       	 | UE4.20-3942182           |                                |
+| 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://rb.gy/mjcumk |
 
 # Season 4
-| Build                   | Date           | Link                                                                   |
-| ----------------------- | -------------- | ---------------------------------------------------------------------- |
-| 4.0-CL-4039451          | 02-05-18       |-------------------------------------- MANIFEST --------------------------------------|
-| 4.1-CL-4053532          | 08-05-18       |-------------------------------------- MANIFEST --------------------------------------|
-| 4.2-CL-4072250          | 16-05-18	   | https://drive.google.com/file/d/1e9UdrMLgdUOFzjRc_gOlokQySBxOpEDJ/view |
-| 4.4-CL-4117433          | 11-06-18       |                                                                        |
-| 4.4.1-CL-4127312        | 14-06-18       | https://drive.google.com/file/d/1_rsZTzQu8ZByfNmudylyL3kqKQuTal7m/view |
-| 4.5-CL-4159770          | 27-06-18       | https://drive.google.com/file/d/1G1oRjNY4q5HaMqFSQUeCuHOtRcXvxKnt/view |
+| Build                         | Date           	 |  Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 4.0-CL-4039451          	| 02-05-18       	 | UE4.20-4039451	    |		----- MANIFEST ----- |
+| 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		----- MANIFEST ----- |
+| 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://rb.gy/owdjci |
+| 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |                                |
+| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		https://rb.gy/duaj2m |
+| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://rb.gy/qjpkem |
 
 # Season 5
-| Build                   | Date           | Link                                                                   |
-| ----------------------- | -------------- | ---------------------------------------------------------------------- |
-| 5.00-CL-4204761  	  | 12-07-18       | https://drive.google.com/file/d/1xtAOzOjKZDlWYYduB9prTAzql-2QKB6k/view |
-| 5.00-CL-4214610	  | 12-07-18       | https://drive.google.com/file/d/12XOammqSvtWrj1Z6LvB5NdIveoDvWSi-/view |
-| 5.10-CL-4240749         | 25-07-18       | https://drive.google.com/file/d/1Gyd4Ngmtf4waoqgpfzBhb5Q8tcf9fDAc/view |
-| 5.21-CL-4288479         | 15-08-18       |                                                                        |
-| 5.30-CL-4305896         | 23-08-18       |                                                                        |
-| 5.40-CL-4352937         | 05-09-18       | https://drive.google.com/file/d/1hp2J5zcNnV5dKT5YfV2c74HZlLB7YYTP/view |
-| 5.41-CL-4363240         | 19-09-18       | https://drive.google.com/file/d/1fNRu-NOAXBAI49NbxUAeaCNPznyW5JjX/view |
+| Build                         | Date           	 |  Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 5.00-CL-4204761  	  	| 12-07-18       	 | UE4.21-4204761	    |		https://rb.gy/qo6grb |
+| 5.00-CL-4214610	  	| 12-07-18       	 | UE4.21-4214610	    |		https://rb.gy/hfd2o0 |
+| 5.10-CL-4240749         	| 25-07-18       	 | UE4.21-4240749	    |		https://rb.gy/eu6pfi |
+| 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |                                |
+| 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |                                |
+| 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://rb.gy/jthlsv |
+| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		https://rb.gy/lwjq6j |
 
 # Season 6
-| Build                   | Date           | Link                                                                   |
-| ----------------------- | -------------- | ---------------------------------------------------------------------- |
-| 6.00-CL-4395664         | 27-09-18       | https://drive.google.com/file/d/1K9qb2je0CD6bIaqDxqtlJUvEgWl-sNX6/view |
-| 6.01-CL-4417689         | 03-10-18       |                                                                        |
-| 6.10-CL-4480234   	  | 16-10-18       | https://drive.google.com/file/d/1z0S3S8Khz8hY8qL7UbL9FYti5u6qVxsr/view |
-| 6.21-CL-4526925         | 01-11-18       | https://drive.google.com/file/d/1RYBJSsPFWJO2AW4HhSn6MausgqmcFCGI/view |
-| 6.30-CL-4573096         | 13-11-18       | https://drive.google.com/file/d/1MTVkUXi7tD4WETlTIMuUrF6ioYeAxI_a/view |
-| 6.31-CL-4573279      	  | 27-11-18       | https://drive.google.com/file/d/1lu-Rruktpk8OpfmFRv7Q63lDPffmsQip/view |
+| Build                         | Date           	 |  Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 6.00-CL-4395664         	| 27-09-18       	 | UE4.21-4395664	    |		https://rb.gy/41wx3p |
+| 6.01-CL-4417689         	| 03-10-18       	 | UE4.21-4417689	    |                                |
+| 6.10-CL-4480234   	  	| 16-10-18       	 | UE4.21-4480234	    |		https://rb.gy/iaktdl |
+| 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		https://rb.gy/bdlwqu |
+| 6.30-CL-4573096         	| 13-11-18       	 | UE4.21-4573096	    |		https://rb.gy/gscfks |
+| 6.31-CL-4573279      	  	| 27-11-18       	 | UE4.21-4573279	    |		https://rb.gy/xjo5ly |
 
 # Season 7
-| Build                   | Date           | Link                                                                   |
-| ----------------------- | -------------- | ---------------------------------------------------------------------- |
-| 7.00-CL-4629139         | 06-12-18       | https://drive.google.com/file/d/1F8BBwFjbUUpmiM17FZZdXe7FnWu5p4ki/view |
-| 7.20-CL-	          |                | Coming as soon as Adam  decides to release it, idk when		            |
-| 7.30-CL-4834550         | 29-01-19       |-------------------------------------- MANIFEST --------------------------------------|
-| 7.40-CL-5046157         | 13-02-19       |-------------------------------------- MANIFEST --------------------------------------|
+| Build                         | Date           	 |  Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | --------------------------------------------------------- |
+| 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		https://rb.gy/aylwpw |
+| 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		            	     |
+| 7.20-CL-	          	|                	 | UE4.22-		    |				     |
+| 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		----- MANIFEST ----- |
+| 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		----- MANIFEST ----- |
