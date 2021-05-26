@@ -51,6 +51,7 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
 | 5.00-CL-4204761  	  | 12-07-18       | https://drive.google.com/file/d/1xtAOzOjKZDlWYYduB9prTAzql-2QKB6k/view |
+| 5.00-CL-4214610	  | 12-07-18       | https://drive.google.com/file/d/12XOammqSvtWrj1Z6LvB5NdIveoDvWSi-/view |
 | 5.10-CL-4240749         | 25-07-18       | https://drive.google.com/file/d/1Gyd4Ngmtf4waoqgpfzBhb5Q8tcf9fDAc/view |
 | 5.40-CL-4352937         | 05-09-18       | https://drive.google.com/file/d/1hp2J5zcNnV5dKT5YfV2c74HZlLB7YYTP/view |
 | 5.41-CL-4363240         | 19-09-18       | https://drive.google.com/file/d/1fNRu-NOAXBAI49NbxUAeaCNPznyW5JjX/view |
