@@ -10,7 +10,7 @@ Credits to DarkenMoon and Sparten.
 | OT6.5-CL-3541083        	 |  28-02-16	   	 | UE4.12-3541083	    |		https://rb.gy/nmgrub |
 | 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		https://rb.gy/z5to2g |
 
-# Season 0 + 1
+# Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 1.7.2-CL-3700114        	| 17-10-17      	 | UE4.16-3700114	    |	        https://rb.gy/vvrn86 |
