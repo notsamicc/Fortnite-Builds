@@ -20,15 +20,15 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 1.10-CL-3790078	  	| 06-12-17	   	 | UE4.19-3790078	    |		https://rb.gy/kqbi3k |
  
 # Season 2
-| Build                   | Date           | Link                                                                   |
-| ----------------------- | -------------- | ---------------------------------------------------------------------- |
-| 1.11-CL-3807424         | 14-12-17	   | https://drive.google.com/file/d/17SOMTjw_jj66KtVLFZqcfUnIE6P2Vc65/view |
-| 2.1.0-CL-3825894        | 09-01-18	   | https://drive.google.com/file/d/1dVS_LVJIepNMMcs5WmSNSQvNWHdlIsmZ/view |
-| 2.2.0-CL-3841827        | 18-01-18	   | https://drive.google.com/file/d/1gkluSEyrZ9cQKPJQgbHHNXT46VU0kE5v/view |
-| 2.3.0-CL-3847564        | 25-01-18	   |-------------------------------------- MANIFEST --------------------------------------|
-| 2.4.0-CL-3858292        | 01-02-18	   | https://drive.google.com/file/d/1JYJ74HbS5GbXyWem4kxNkZm9klOPlvCe/view |
-| 2.4.2-CL-3870737        | 07-02-18	   | https://drive.google.com/file/d/10DjWthGEZR4EWlPeuFie4g9_cc_N1DkA/view |
-| 2.5.0-CL-3889387        | 13-02-18       |-------------------------------------- MANIFEST --------------------------------------|
+| Build                         | Date           	 |  Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | ----------------------------------------------------------|
+| 1.11-CL-3807424         	| 14-12-17		 | UE4.16-3724489	    |		https://rb.gy/huppeu |
+| 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.16-3724489	    |		https://rb.gy/huppeu |
+| 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.16-3724489	    |		https://rb.gy/huppeu |
+| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.16-3741772	    |		https://rb.gy/heoy9p |
+| 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.16-3757339	    |		https://rb.gy/ssi0wd |
+| 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.16-3775276	    |		https://rb.gy/pa2tfa |
+| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.19-3790078	    |		https://rb.gy/kqbi3k |
 
 # Season 3
 | Build                   | Date           | Link                                                                   |
