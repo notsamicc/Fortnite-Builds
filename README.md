@@ -6,8 +6,8 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 # Pre-BattleRoyale
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
-| OT6.5-CL-3541083        |  28-02-16	   | https://drive.google.com/file/d/1SvrhOV72Qvv9mwI3RLMo2rOLGwAtRlNi/view |
-| 1.2-CL-3541083          |  21-07-17      | https://drive.google.com/file/d/1JpQxlwnkJX_fYh6hPU0z6jS78iS6X2k6/view |
+| OT6.5-CL-3541083        |  28-02-16	   | https://rb.gy/nmgrub |
+| 1.2-CL-3541083          |  21-07-17      | https://rb.gy/z5to2g |
 
 # Season 0 + 1
 | Build                   	| Date          	 | Engine Version	    |		    Link             |
@@ -21,14 +21,14 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
  
 # Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
-| ----------------------------- | ---------------------- | ------------------------ |-------------------------------|
-| 1.11-CL-3807424         	| 14-12-17		 | UE4.16-3724489	    |		https://rb.gy/huppeu |
-| 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.16-3724489	    |		https://rb.gy/huppeu |
-| 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.16-3724489	    |		https://rb.gy/huppeu |
-| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.16-3741772	    |		https://rb.gy/heoy9p |
-| 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.16-3757339	    |		https://rb.gy/ssi0wd |
-| 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.16-3775276	    |		https://rb.gy/pa2tfa |
-| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.19-3790078	    |		https://rb.gy/kqbi3k |
+| ----------------------------- | ---------------------- | ------------------------ |------------------------------- |
+| 1.11-CL-3807424         	| 14-12-17		 | UE4.16-3724489	    |		https://rb.gy/oy1zyq |
+| 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.16-3724489	    |		https://rb.gy/zqwfup |
+| 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.16-3724489	    |		https://rb.gy/v313ob |
+| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.16-3741772	    |		----- MANIFEST ----- |
+| 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.16-3757339	    |		https://rb.gy/e6aisf |
+| 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.16-3775276	    |		https://rb.gy/pcfeir |
+| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.19-3790078	    |		----- MANIFEST ----- |
 
 # Season 3
 | Build                   | Date           | Link                                                                   |
