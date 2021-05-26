@@ -1,5 +1,5 @@
 # Fortnite-Builds
-Some Fortnite builds reuploaded by Samicc and Fischsalat.
+Some Fortnite builds reuploaded by Samicc and Fischsalat. Credits to DarkenMoon and Sparten.
 
 # Downloads
 
