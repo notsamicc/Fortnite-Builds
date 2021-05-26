@@ -17,6 +17,7 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 1.8.2-CL-3741772        | 06-11-17       | https://drive.google.com/file/d/1YphePkGAvzwcQ66yZ6d36eXnaX4XREEZ/view |
 | 1.9-CL-3757339          | 14-11-17       | https://drive.google.com/file/d/18pF3Ws1BoGmenpZqW0r8aqaP1EFHQhiF/view |
 | 1.9.1-CL-3775276        | 29-11-17       | https://drive.google.com/file/d/15j8Chkfk_ISk9AfhcPNI_IncvZyyKhZD/view |
+| 1.10-CL-3790078	  |		   | https://drive.google.com/file/d/1_N8yv0725BY1C3a3_vfjPPqyorOm6kmK/view |
 
 # Season 2
 | Build                   | Date           | Link                                                                   |
