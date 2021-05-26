@@ -45,7 +45,7 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 4.0-CL-4039451          	| 02-05-18       	 | UE4.20-4039451	    |		----- MANIFEST ----- |
 | 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		----- MANIFEST ----- |
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://rb.gy/owdjci |
-| 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |                                |
+| 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://rb.gy/6y8lbk |
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		https://rb.gy/duaj2m |
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://rb.gy/qjpkem |
 
