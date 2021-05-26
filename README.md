@@ -10,15 +10,15 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 | 1.2-CL-3541083          |  21-07-17      | https://drive.google.com/file/d/1JpQxlwnkJX_fYh6hPU0z6jS78iS6X2k6/view |
 
 # Season 0 + 1
-| Build                   | Date           | Link                                                                   |
-| ----------------------- | -------------- | ---------------------------------------------------------------------- |
-| 1.7.2-CL-3700114        | 17-10-17       | https://drive.google.com/file/d/1A3Y2werWd5mlbp2MlUeP8NL5sEXy8lOn/view |
-| 1.8-CL-3724489          | 25-10-17       | https://drive.google.com/file/d/1Me81vbHjPQolFdjhpw_d119qs4OeH8P3/view |
-| 1.8.2-CL-3741772        | 06-11-17       | https://drive.google.com/file/d/1YphePkGAvzwcQ66yZ6d36eXnaX4XREEZ/view |
-| 1.9-CL-3757339          | 14-11-17       | https://drive.google.com/file/d/18pF3Ws1BoGmenpZqW0r8aqaP1EFHQhiF/view |
-| 1.9.1-CL-3775276        | 29-11-17       | https://drive.google.com/file/d/15j8Chkfk_ISk9AfhcPNI_IncvZyyKhZD/view |
-| 1.10-CL-3790078	  | 06-12-17	   | https://drive.google.com/file/d/1_N8yv0725BY1C3a3_vfjPPqyorOm6kmK/view |
-
+| Build                   	| Date          	 | Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 1.7.2-CL-3700114        	| 17-10-17      	 | UE4.16-3700114	    |	        https://rb.gy/vvrn86 |
+| 1.8-CL-3724489          	| 25-10-17       	 | UE4.16-3724489	    |		https://rb.gy/huppeu |
+| 1.8.2-CL-3741772        	| 06-11-17      	 | UE4.16-3741772	    |		https://rb.gy/heoy9p |
+| 1.9-CL-3757339          	| 14-11-17       	 | UE4.16-3757339	    |		https://rb.gy/ssi0wd |
+| 1.9.1-CL-3775276        	| 29-11-17       	 | UE4.16-3775276	    |		https://rb.gy/pa2tfa |
+| 1.10-CL-3790078	  	| 06-12-17	   	 | UE4.19-3790078	    |		https://rb.gy/kqbi3k |
+ 
 # Season 2
 | Build                   | Date           | Link                                                                   |
 | ----------------------- | -------------- | ---------------------------------------------------------------------- |
