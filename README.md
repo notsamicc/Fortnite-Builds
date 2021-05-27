@@ -37,7 +37,6 @@ Credits to DarkenMoon, Sparten and Polynite.
 | 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |		----- MANIFEST ----- |
 | 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		----- MANIFEST ----- |
 | 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://rb.gy/imwtbc |
-| 3.3-CL-3942182          	| 15-03-18       	 | UE4.20-3942182           |                                |
 | 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://rb.gy/mjcumk |
 
 # Season 4
