@@ -69,7 +69,8 @@ Credits to DarkenMoon, Sparten and Polynite.
 | 6.01-CL-4424678		| 03-10-18		 | UE4.21-4424678	    | 		https://rb.gy/6gktfg |
 | 6.02-CL-4442095        	| 10-10-18     		 | UE4.21-4442095    	    | 		https://rb.gy/7eo9a7 |
 | 6.02-CL-4461277        	| 10-10-18       	 | UE4.21-4461277	    |           https://rb.gy/c5y1ly |
-| 6.10-CL-4476098         | 16-10-18         | UE4.21-4476098      | https://rb.gy/sqsoug |
+| 6.10-CL-4464155       	| 16-10-18      	 | UE4.21-4464155   	    | 		https://rb.gy/bdv8v8 |
+| 6.10-CL-4476098       	| 16-10-18      	 | UE4.21-4476098   	    | 		https://rb.gy/sqsoug |
 | 6.10-CL-4480234   	  	| 16-10-18       	 | UE4.21-4480234	    |		https://rb.gy/iaktdl |
 | 6.20-CL-4497486          	| 24-10-18         	 | UE4.21-4497486     	    | 		https://rb.gy/8z5okk |
 | 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		https://rb.gy/bdlwqu |
