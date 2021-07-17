@@ -8,7 +8,7 @@ Credits to DarkenMoon, Sparten and Polynite.
 | Build                  	 | Date          	 | Engine Version	    |		    Link             |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 | OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	    |		https://rebrand.ly/OT6_5|
-| 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		https://rebrand.ly/1_2|
+| 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		https://rebrand.ly/1_2_0|
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Link             |
@@ -45,10 +45,10 @@ Credits to DarkenMoon, Sparten and Polynite.
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 4.0-CL-4039451          	| 02-05-18       	 | UE4.20-4039451	    |		----- MANIFEST ----- |
 | 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		----- MANIFEST ----- |
-| 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://rebrand.ly/4_2|
+| 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://rebrand.ly/4_2_0|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://rebrand.ly/4_4_0|
 | 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		https://rebrand.ly/4_4_1|
-| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://rebrand.ly/4_5|
+| 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://rebrand.ly/4_5_0|
 
 # Season 5
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
@@ -73,11 +73,11 @@ Credits to DarkenMoon, Sparten and Polynite.
 | 6.10-CL-4464155       	| 16-10-18      	 | UE4.21-4464155   	    | 		https://rebrand.ly/6_10_0|
 | 6.10-CL-4476098       	| 16-10-18      	 | UE4.21-4476098   	    | 		https://rebrand.ly/6_10_1|
 | 6.10-CL-4480234   	  	| 16-10-18       	 | UE4.21-4480234	    |		https://rebrand.ly/6_10_2|
-| 6.20-CL-4497486          	| 24-10-18         	 | UE4.21-4497486     	    | 		https://rebrand.ly/6_20|
-| 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		https://rebrand.ly/6_21|
-| 6.22-CL-4543176		| 04-11-18		 | UE4.21-4543176	    | 		https://rebrand.ly/6_22|
-| 6.30-CL-4573096         	| 13-11-18       	 | UE4.21-4573096	    |		https://rebrand.ly/6_30|
-| 6.31-CL-4573279      	  	| 27-11-18       	 | UE4.21-4573279	    |		https://rebrand.ly/6_31|
+| 6.20-CL-4497486          	| 24-10-18         	 | UE4.21-4497486     	    | 		https://rebrand.ly/6_20_0|
+| 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		https://rebrand.ly/6_21_0|
+| 6.22-CL-4543176		| 04-11-18		 | UE4.21-4543176	    | 		https://rebrand.ly/6_22_0|
+| 6.30-CL-4573096         	| 13-11-18       	 | UE4.21-4573096	    |		https://rebrand.ly/6_30_0|
+| 6.31-CL-4573279      	  	| 27-11-18       	 | UE4.21-4573279	    |		https://rebrand.ly/6_31_0|
 
 # Season 7
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
