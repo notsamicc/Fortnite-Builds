@@ -30,7 +30,7 @@ Credits to DarkenMoon, Sparten, Macko and Polynite.
 | 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		----- MANIFEST ----- |
 | 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		https://rebrand.ly/2_4_0|
 | 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://rebrand.ly/2_4_2|
-| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.19-3889387	    |		----- MANIFEST ----- |
+| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |		----- MANIFEST ----- |
 
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
