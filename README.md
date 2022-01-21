@@ -1,6 +1,6 @@
 # Fortnite-Builds
 Some Fortnite builds reuploaded by Samicc and Fischsalat. 
-Credits to DarkenMoon, Sparten, Macko and Polynite.
+Credits to DarkenMoon, Sparten, Macko, Crush and Polynite.
 
 # Downloads
 
@@ -16,7 +16,8 @@ Credits to DarkenMoon, Sparten, Macko and Polynite.
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 1.7.2-CL-3700114        	| 17-10-17      	 | UE4.16-3700114	    |	        https://rebrand.ly/1_7_2|
 | 1.8-CL-3724489          	| 25-10-17       	 | UE4.16-3724489	    |		https://rebrand.ly/1_8_0|
-| 1.8.2-CL-3741772        	| 06-11-17      	 | UE4.16-3741772	    |		https://rebrand.ly/1_8_2|
+| 1.8.1-CL-3729133         | 02-11-17         | UE4.16-3729133     | https://rebrand.ly/1_8_1|
+| 1.8.2-CL-3741772        	| 08-11-17      	 | UE4.16-3741772	    |		https://rebrand.ly/1_8_2|
 | 1.9-CL-3757339          	| 14-11-17       	 | UE4.16-3757339	    |		https://rebrand.ly/1_9_0|
 | 1.9.1-CL-3775276        	| 29-11-17       	 | UE4.16-3775276	    |		https://rebrand.ly/1_9_1|
 | 1.10-CL-3790078	  	| 06-12-17	   	 | UE4.19-3790078	    |		https://rebrand.ly/1_10|
