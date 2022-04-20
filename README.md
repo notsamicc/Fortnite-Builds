@@ -63,7 +63,7 @@ Note: Fixed all downloads except 4.2 and the second 6.01 (I forgot the email of 
 | 5.10-CL-4240749         	| 25-07-18       	 | UE4.21-4240749	    |		https://rebrand.ly/5_10|
 | 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           https://rebrand.ly/5_21|
 | 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |           https://rebrand.ly/5_30|
-| 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://rebrand.ly/5_40|
+| 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://rebrand.ly/5_4_0|
 | 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		https://rebrand.ly/5_41|
 
 # Season 6
