@@ -27,7 +27,7 @@ Note: Fixed all downloads except 4.2 and the second 6.01 (I forgot the email of 
 # Season 2
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ |------------------------------- |
-| 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	    |		https://rebrand.ly/1_11|
+| 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	      |		https://rebrand.ly/1_11_1|
 | 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.19-3825894	    |		https://rebrand.ly/2_1_0|
 | 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.19-3841827	    |		https://rebrand.ly/2_2_0|
 | 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		----- MANIFEST ----- |
