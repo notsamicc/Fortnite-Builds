@@ -95,19 +95,15 @@ eh pretty much credit to blk for after season 7
 | 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		----- MANIFEST ----- |
 | 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		----- MANIFEST ----- |
 
-#Season 8 
-| Build                         | Date           |		    Link             |
-8.51-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |	https://cdn.blksservers.com/8.51.rar|
+Season 8
+8.51       	   |	https://cdn.blksservers.com/8.51.rar
 
-#Season 9
-| Build                         | Date           |		    Link             |
-9.10-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |	https://cdn.blksservers.com/9.10.rar|
+Season 9
+9.10        	  |	https://cdn.blksservers.com/9.10.rar
 
-#Season X
-| Build                         | Date           |		    Link             |
-10.40-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |	https://cdn.blksservers.com/10.40.rar|
+Season X
+10.40          |	https://cdn.blksservers.com/10.40.rar|
 
-#Season 14
-| Build                         | Date           |		    Link             |
-14.60-CL-4629139         	| 06-12-18       	 	    |	https://drive.google.com/file/d/1-3_3EH2OwPrwn-nciZGeEzB_mVJz535U/view?usp=share_link
+Season 14
+14.60   	 	    |	https://drive.google.com/file/d/1-3_3EH2OwPrwn-nciZGeEzB_mVJz535U/view?usp=share_link
 
