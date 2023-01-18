@@ -95,9 +95,9 @@ eh pretty much credit to blk for after season 7
 | 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		----- MANIFEST ----- |
 | 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		----- MANIFEST ----- |
 
-Season 8 |
+#Season 8 |
 8.51       	   |	https://cdn.blksservers.com/8.51.rar
-
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 
 Season 9 |
 9.10        	  |	https://cdn.blksservers.com/9.10.rar
