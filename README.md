@@ -98,7 +98,7 @@ WinRAR : https://www.win-rar.com/start.html?&L=0
 | 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		https://rebrand.ly/7_00|
 | 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		https://rebrand.ly/07_10|
 | 7.20-CL-4727874	       	| 22-01-19             	 | UE4.22-4727874	    |		https://rebrand.ly/7_20|
-| 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		----- MANIFEST ----- |
+| 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |	https://bit.ly/3QTdfBQ |
 | 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |	https://bit.ly/3weN0Mq |
 
 Season 8 |
