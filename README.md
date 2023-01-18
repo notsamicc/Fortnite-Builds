@@ -1,8 +1,8 @@
 # Fortnite-Builds
-Some Fortnite builds reuploaded by Samicc and Fischsalat. 
+Some Fortnite builds reuploaded by Samicc, Fischsalat And More By Rateix. 
 Credits to DarkenMoon, Sparten, Macko, Crush and Polynite.
 
-Note: Some links are broken
+Note: Some links are broken and blkservers are sometimes **offline**
 
 eh pretty much credit to blk for after season 7
 
