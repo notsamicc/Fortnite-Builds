@@ -4,6 +4,8 @@ Credits to DarkenMoon, Sparten, Macko, Crush and Polynite.
 
 Note: Some links are broken
 
+eh pretty much credit to blk for after season 7
+
 # Downloads
 
 # Pre-BattleRoyale
