@@ -41,7 +41,7 @@ WinRAR : https://www.win-rar.com/start.html?&L=0
 | 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		----- MANIFEST ----- |
 | 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		https://rebrand.ly/2_4_0|
 | 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://rebrand.ly/2_4_2|
-| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |		https://drive.google.com/file/d/1irIMnYbL4821sYdr-4E3i5w_9NRf0rjH/view?usp=sharing |
+| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |		bit.ly/3krolli |
 
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
@@ -99,7 +99,7 @@ WinRAR : https://www.win-rar.com/start.html?&L=0
 | 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		https://rebrand.ly/07_10|
 | 7.20-CL-4727874	       	| 22-01-19             	 | UE4.22-4727874	    |		https://rebrand.ly/7_20|
 | 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		----- MANIFEST ----- |
-| 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |	https://drive.google.com/file/d/1gFibF4HOKcNTHd9uZ4KJ8lWO5qbmUcuo/view?usp=share_link |
+| 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |	bit.ly/3weN0Mq |
 
 Season 8 |
 8.51       	   |	https://cdn.blksservers.com/8.51.rar
@@ -113,5 +113,5 @@ Season X |
 
 
 Season 14 |
-14.60   	 	    |	https://drive.google.com/file/d/1-3_3EH2OwPrwn-nciZGeEzB_mVJz535U/view?usp=share_link
+14.60   	 	    |	bit.ly/3WnJhH7 |
 
