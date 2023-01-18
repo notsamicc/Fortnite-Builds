@@ -38,7 +38,6 @@ WinRAR : https://www.win-rar.com/start.html?&L=0
 | 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	      |		https://rebrand.ly/01_11|
 | 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.19-3825894	    |		https://rebrand.ly/2_1_0|
 | 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.19-3841827	    |		https://rebrand.ly/2_2_0|
-| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		----- MANIFEST ----- |
 | 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		https://rebrand.ly/2_4_0|
 | 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://rebrand.ly/2_4_2|
 | 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |		https://bit.ly/3krolli |
@@ -50,7 +49,6 @@ WinRAR : https://www.win-rar.com/start.html?&L=0
 | 3.1-CL-3915963    		| 28-02-18         	 | UE4.20-3915963      	    |   	https://rebrand.ly/3_1|
 | 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		https://rebrand.ly/3_1_1 |
 | 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://rebrand.ly/3_2|
-| 3.3-CL-3942182    | 15-03-18         | UE4.20-3942182      | reupload soon|
 | 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://rebrand.ly/3_5|
 
 # Season 4
