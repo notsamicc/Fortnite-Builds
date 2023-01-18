@@ -6,6 +6,12 @@ Note: Some links are broken
 
 eh pretty much credit to blk for after season 7
 
+How to use rar files : Get a rar extractor, here are some examples : 
+
+WinRAR : https://www.win-rar.com/start.html?&L=0
+
+7-Zip (what i use) https://www.7-zip.org/
+
 # Downloads
 
 # Pre-BattleRoyale
