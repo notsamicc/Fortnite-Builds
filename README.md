@@ -3,7 +3,7 @@ Some Fortnite builds reuploaded by Samicc, Fischsalat And More By Rateix.
 Credits to DarkenMoon, Sparten, Macko, Crush and Polynite.
 
 Note: Some links are broken and blkservers are sometimes **offline**
-
+Also, this is more builds AND files instead of manifests. 
 eh pretty much credit to blk for after season 7
 
 How to use rar files : Get a rar extractor, here are some examples : 
