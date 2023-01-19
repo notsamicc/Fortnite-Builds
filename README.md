@@ -103,7 +103,7 @@ Season 8 |
 8.51       	   |	https://cdn.blksservers.com/8.51.rar
 
 Season 9 |
-9.10        	  |	https://cdn.blksservers.com/9.10.rar
+9.10        	  |	https://drive.google.com/file/d/1fi8AdX7_CDxBTTkEBSnJANMWVABkZ6ku/view
 
 
 Season X |
