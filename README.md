@@ -100,14 +100,14 @@ WinRAR : https://www.win-rar.com/start.html?&L=0
 | 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |	https://bit.ly/3weN0Mq |
 
 Season 8 |
-8.51       	   |	https://cdn.blksservers.com/8.51.rar
+8.51       	   |	https://cdn.blksservers.com/8.51.rar (NOT WORKING UPLOADING TO GOOGLE DRIVE)
 
 Season 9 |
 9.10        	  |	https://drive.google.com/file/d/1fi8AdX7_CDxBTTkEBSnJANMWVABkZ6ku/view
 
 
 Season X |
-10.40          |	https://cdn.blksservers.com/10.40.rar|
+10.40          |	https://cdn.blksservers.com/10.40.rar|(NOT WORKING RN)
 
 
 Season 14 |
