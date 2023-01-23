@@ -104,6 +104,7 @@ Season 8 |
 
 Season 9 |
 9.10        	  |	https://drive.google.com/file/d/1fi8AdX7_CDxBTTkEBSnJANMWVABkZ6ku/view
+Or : https://test.blksservers.com/builds/Fortnite9.10.rar
 
 
 Season X |
