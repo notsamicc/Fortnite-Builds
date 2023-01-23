@@ -41,6 +41,7 @@ WinRAR : https://www.win-rar.com/start.html?&L=0
 | 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		https://rebrand.ly/2_4_0|
 | 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://rebrand.ly/2_4_2|
 | 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |		https://bit.ly/3krolli |
+Or https://test.blksservers.com/builds/Fortnite2.5.rar
 
 # Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
@@ -50,6 +51,7 @@ WinRAR : https://www.win-rar.com/start.html?&L=0
 | 3.1-CL-3917250	  	| 28-02-18       	 | UE4.20-3917250	    |		https://rebrand.ly/3_1_1 |
 | 3.2-CL-3935073	  	| 08-03-18       	 | UE4.20-3935073 	    | 		https://rebrand.ly/3_2|
 | 3.5-CL-4008490          	| 11-04-18       	 | UE4.20-4008490	    | 		https://rebrand.ly/3_5|
+Or : https://test.blksservers.com/builds/Fortnite3.5.rar
 
 # Season 4
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
@@ -96,6 +98,7 @@ WinRAR : https://www.win-rar.com/start.html?&L=0
 | 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		https://rebrand.ly/7_00|
 | 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		https://rebrand.ly/07_10|
 | 7.20-CL-4727874	       	| 22-01-19             	 | UE4.22-4727874	    |		https://rebrand.ly/7_20|
+Or https://test.blksservers.com/builds/Fortnite7.20.rar
 | 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |	https://bit.ly/3QTdfBQ |
 | 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |	https://bit.ly/3weN0Mq |
 
