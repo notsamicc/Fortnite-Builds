@@ -1,6 +1,6 @@
 # Fortnite-Builds
 Some Fortnite builds reuploaded by Samicc and Fischsalat. 
-Credits to DarkenMoon, Sparten, Macko, Crush and Polynite.
+Credits to DarkenMoon, Sparten, Macko, Crush, Polynite and parkie.
 
 Note: Some links are broken
 
