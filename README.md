@@ -52,7 +52,7 @@ Note: Some links are broken
 | 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		https://rebrand.ly/4_1 |
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://rebrand.ly/4_2_00|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://rebrand.ly/4_4_0|
-| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		https://rebrand.ly/4_4_1|
+| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |	[Fortnite 4.4.1](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view?usp=sharing)|
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://rebrand.ly/4_5_0|
 
 # Season 5
